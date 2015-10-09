@@ -1,3 +1,3 @@
 # Cucumber
 
-Examples of web browser testing.
+Examples of automated web browser testing.
